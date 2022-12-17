@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T20:16:18.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="km35HWjIYsEwEAYGSJRz" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T20:17:20.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="phX-MKwAG1l6QxVj_2JP" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1176" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -446,9 +446,6 @@
         <mxCell id="UimfECQGJAVD3DRB9tWR-185" value="Notify Fraud team about the issue" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1269.52" y="4155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UimfECQGJAVD3DRB9tWR-187" value="Notify Fraud team about the issue" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="930.1199999999999" y="4020" width="134.24" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="UimfECQGJAVD3DRB9tWR-188" value="Failur could be from an error with entered values, there is not enoguh balance in users wallet or in the payment method that used" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1550.0000000000002" y="3650" width="152.25" height="120" as="geometry" />
         </mxCell>
@@ -592,7 +589,8 @@
           <mxGeometry x="0.1023" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1520" y="4030" />
+              <mxPoint x="1520" y="4010" />
+              <mxPoint x="997" y="4010" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -754,8 +752,8 @@
             <mxPoint x="997.2222222222222" y="4150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UimfECQGJAVD3DRB9tWR-399" value="Notify Fraud team about the issue" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="930.1199999999999" y="4020" width="134.24" height="60" as="geometry" />
+        <mxCell id="UimfECQGJAVD3DRB9tWR-399" value="Notify Fraud team about the issue" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="929.7499999999999" y="4032" width="134.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UimfECQGJAVD3DRB9tWR-402" value="This fields such as fullname, mobile number, email address." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="2880" width="210" height="110" as="geometry" />
